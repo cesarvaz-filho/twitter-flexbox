@@ -11,7 +11,7 @@
 
 ![](/screenshots/twitter_gif.gif)
 <h1 align="center">
-  <img alt="Twitter-Clone" title="Twitter Clone" src="/screenshots/twitter.png" />
+  <img alt="Twitter-Clone" title="Twitter Clone" src="./screenshots/twitter.PNG" />
 </h1>
 
 # Como rodar a aplicação
