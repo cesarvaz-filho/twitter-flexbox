@@ -4,14 +4,14 @@
 
 # Status
 <h4 align="center"> 
-	🚧  Proffy 🚀 Construído  🚧
+	🚧  Twitter Clone 🚀 Construído  🚧
 </h4>
 
 # Banner
 
 ![](/screenshots/twitter_gif.gif)
 <h1 align="center">
-  <img alt="Twitter-Clone" title="Twitter Clone" src="./screenshots/twitter.png" />
+  <img alt="Twitter-Clone" title="Twitter Clone" src="/screenshots/twitter.png" />
 </h1>
 
 # Como rodar a aplicação
