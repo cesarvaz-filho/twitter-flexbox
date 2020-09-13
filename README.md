@@ -13,6 +13,9 @@
 <h1 align="center">
   <img alt="Twitter-Clone" title="Twitter Clone" src="./screenshots/twitter.PNG" />
 </h1>
+<h1 align="center">
+  <img alt="Twitter-Clone" title="Twitter Clone" src="./screenshots/twitter2.PNG" />
+</h1>
 
 # Como rodar a aplicação
 
